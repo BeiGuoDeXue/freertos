@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "cursor_list.h": "c"
+    }
+}
